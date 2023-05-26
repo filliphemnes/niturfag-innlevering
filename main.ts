@@ -1385,7 +1385,7 @@ radio.onReceivedNumber(function (receivedNumber) {
             # # # # #
             `)
         basic.clearScreen()
-    } else if (receivedNumber == _22) {
+    } else if (receivedNumber == _2) {
         basic.showLeds(`
             # # # # #
             # # # # #
@@ -2139,7 +2139,6 @@ let _6 = 0
 let _5 = 0
 let _4 = 0
 let _3 = 0
-let _22 = 0
 let _1 = 0
 let Z = 0
 let Y = 0
@@ -2196,7 +2195,7 @@ X = 24
 Y = 25
 Z = 26
 _1 = 27
-_22 = 28
+_2 = 28
 _3 = 29
 _4 = 30
 _5 = 31
